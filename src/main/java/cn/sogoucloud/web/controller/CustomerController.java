@@ -3,7 +3,6 @@ package cn.sogoucloud.web.controller;
 import java.util.List;
 import java.util.Map;
 
-
 import cn.sogoucloud.framework.annotation.Autowired;
 import cn.sogoucloud.framework.annotation.Controller;
 import cn.sogoucloud.framework.annotation.RequestMapping;
@@ -12,7 +11,6 @@ import cn.sogoucloud.framework.bean.Param;
 import cn.sogoucloud.framework.bean.View;
 import cn.sogoucloud.web.model.Customer;
 import cn.sogoucloud.web.service.CustomerService;
-
 
 /**
  * 处理客户管理相关请求
