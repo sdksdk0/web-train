@@ -23,11 +23,11 @@
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         
-        <dependency> 
-            <groupId>cn.sogoucloud.plugin-security</groupId>
+         <dependency> 
+            <groupId>cn.sogoucloud.plugin</groupId>
   			<artifactId>sogou-plugin-security</artifactId>
   			<version>0.0.1-SNAPSHOT</version>
-        </dependency>
+        </dependency>  
     </dependencies>
 
     <build>
