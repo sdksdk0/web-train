@@ -6,8 +6,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.smart4j</groupId>
-    <artifactId>chapter44</artifactId>
+    <groupId>cn.sogoucloud.web</groupId>
+    <artifactId>web-train</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
 
@@ -21,6 +21,12 @@
             <groupId>cn.sogoucloud.framework</groupId>
             <artifactId>sogou-framework</artifactId>
             <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        
+        <dependency> 
+            <groupId>cn.sogoucloud.plugin-security</groupId>
+  			<artifactId>sogou-plugin-security</artifactId>
+  			<version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
